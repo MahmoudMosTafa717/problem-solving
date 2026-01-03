@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767436814 source:e:\iti\problems\c. polycarp's pockets\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
