@@ -4,6 +4,14 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    float x;
+    cin >> x;
+    int intX = (int)x;
+
+    if(intX == x ){
+        cout << "int " << intX;
+    }else{
+        cout << "float " << x;
+    }
     return 0;
 }
