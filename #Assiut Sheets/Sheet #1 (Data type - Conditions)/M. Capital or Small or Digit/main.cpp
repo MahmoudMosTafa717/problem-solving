@@ -12,7 +12,7 @@ int main()
     cin >> x;
 
     if(x >= 48 && x <= 57){
-        cout << "IS DIGITAL";
+        cout << "IS DIGIT";
     }else
         if(x >= 65 && x <= 90){
         cout << "ALPHA\nIS CAPITAL";
