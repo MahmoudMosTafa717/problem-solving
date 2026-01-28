@@ -11,7 +11,7 @@ int main()
     if(intX == x ){
         cout << "int " << intX;
     }else{
-        cout << "float " << x;
+        cout << "float " << intX << " " << (x- intX)  ;
     }
     return 0;
 }
