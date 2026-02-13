@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1770989093 source:e:\iti\problems\acpc practice contest\problem h. legacy systems validation\main.cpp
+	<iostream>
+	<string>
+	<set>
+

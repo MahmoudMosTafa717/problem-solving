@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1770986917 source:e:\iti\problems\acpc practice contest\problem d. same-color pairs\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
